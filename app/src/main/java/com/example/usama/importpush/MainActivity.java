@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         int iii = i + ii;
         int iiii = i + ii + iii;
         String test = "TEST";
+        boolean tests = true;
     }
 }
